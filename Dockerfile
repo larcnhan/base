@@ -1,5 +1,5 @@
 # base image
-FROM alpine:3.4
+FROM alpine:3.5
 MAINTAINER LancnHan <larcnhan@126.com>
 
 ARG TIME_ZONE=Asia/Shanghai
